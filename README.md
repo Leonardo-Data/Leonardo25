@@ -13,8 +13,11 @@ Mi pasión por los datos y la toma de decisiones basada en información me ha ll
 
 
 📊 Excel
+
 🐍 Python
+
 🛢 SQL
+
 📈 Power BI
 
 
