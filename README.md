@@ -2,6 +2,7 @@
 📊 Analista de Datos en formacion 
 📍 Cartagena, Bolivar, Colombia
 
+
 💻 Soy Técnico en Sistemas con sólidos conocimientos en el desarrollo de aplicaciones y el mundo de los datos. Actualmente me especializo en el área de análisis de datos, aplicando técnicas de procesamiento, limpieza y visualización para generar información valiosa que apoye la toma de decisiones estratégicas en diversas áreas.
 
 💡 Sobre mí
@@ -20,8 +21,6 @@ Soy una persona analítica, comprometida y con un alto sentido ético, capaz de 
 🎯 Estoy en busca de oportunidades en el mundo de los datos, donde pueda aplicar mis conocimientos en análisis, procesamiento y visualización para transformar información en decisiones estratégicas. Mi pasión por los datos y el desarrollo de aplicaciones me impulsa a seguir aprendiendo y creciendo profesionalmente en el área de análisis de datos.
 
 📬 ¡Hablemos!
-📧 Correo: anavig14@outlook.com
-🔗 LinkedIn: linkedin.com/in/anavig14/
-📱 WhatsApp: wa.me/573133341386
+
 
 ¡Gracias por visitar mi perfil! 🚀
