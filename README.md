@@ -30,7 +30,7 @@ Mi pasión por los datos y la toma de decisiones basada en información me ha ll
 
 📬 ¡Hablemos!
 
-Whatsapp: WA.me/+573024622957
+Whatsapp: wa.me/+573024622957
 
 Correo: leonardojsm25@hotmail.com
 
