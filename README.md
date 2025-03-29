@@ -30,5 +30,8 @@ Mi pasión por los datos y la toma de decisiones basada en información me ha ll
 
 📬 ¡Hablemos!
 
+Whatsapp: https://wa.me/qr/BU2WYJCDK2QAO1
+Correo: leonardojsm25@hotmail.com
+
 
 ¡Gracias por visitar mi perfil! 🚀
