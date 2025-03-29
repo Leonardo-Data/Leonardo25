@@ -24,10 +24,6 @@ Mi pasión por los datos y la toma de decisiones basada en información me ha ll
 💡 Aplico estas herramientas en el desarrollo de aplicaciones y análisis de datos para procesar, limpiar y visualizar información de manera eficiente. Mi experiencia en el manejo de datos me permite trabajar con grandes volúmenes de información, identificar patrones y generar estrategias de valor que optimicen procesos y apoyen la toma de decisiones en diversas áreas.
 
 
-🚀 ¿Qué me motiva?
-Soy una persona analítica, comprometida y con un alto sentido ético, capaz de trabajar en equipo y adaptarme a entornos dinámicos. Busco oportunidades en el ámbito financiero y de datos donde pueda seguir creciendo como Analista Financiera o de Datos, aportando mis habilidades y experiencia en la optimización de procesos y la toma de decisiones estratégicas.
-
-
 🎯 Estoy en busca de oportunidades en el mundo de los datos, donde pueda aplicar mis conocimientos en análisis, procesamiento y visualización para transformar información en decisiones estratégicas. Mi pasión por los datos y el desarrollo de aplicaciones me impulsa a seguir aprendiendo y creciendo profesionalmente en el área de análisis de datos.
 
 
