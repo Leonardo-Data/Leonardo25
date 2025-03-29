@@ -30,6 +30,7 @@ Mi pasión por los datos y la toma de decisiones basada en información me ha ll
 
 📬 ¡Hablemos!
 
+Linkedin: www.linkedin.com/in/leonardo-sarabia
 Whatsapp: https://wa.me/573024622957
 
 
