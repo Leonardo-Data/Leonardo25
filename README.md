@@ -1,11 +1,11 @@
 ¡Hola! Soy Leonardo Sarabia 👋
 
-📊 Analista de Datos en formacion 
+📊 Analista de Datos Junior / Software Developer
 
 📍 Bogota, Colombia
 
 
-💻 Soy Técnico en Sistemas con sólidos conocimientos en el desarrollo de aplicaciones y el mundo de los datos. Actualmente me especializo en el área de análisis de datos, aplicando técnicas de procesamiento, limpieza y visualización para generar información valiosa que apoye la toma de decisiones estratégicas en diversas áreas.
+💻 Soy Técnico en Procesamiento de Pruebas Software con sólidos conocimientos en el desarrollo de aplicaciones y el mundo de los datos. Actualmente me especializo en el área de análisis de datos, aplicando técnicas de procesamiento, limpieza y visualización para generar información valiosa que apoye la toma de decisiones estratégicas en diversas áreas.
 
 
 💡 Sobre mí
